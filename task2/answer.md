@@ -1,0 +1,1 @@
+### Giải pháp là dùng sort để sắp xếp lại mảng từ bé đến lớn và lấy 2 số cuối cộng với nhau và trả về kết quả. 
